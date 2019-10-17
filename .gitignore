@@ -11,3 +11,17 @@
 /SqlServer.EtwWatcher.Components/obj
 /SqlServer.EtwWatcher.Components/bin/Debug/netcoreapp3.0
 /SqlServer.EtwWatcher.Tests/bin/Debug/netcoreapp3.0
+/SqlServer.EtwWatcher.Tests/obj/SqlServer.EtwWatcher.Tests.csproj.nuget.g.targets
+/SqlServer.EtwWatcher.Tests/obj/SqlServer.EtwWatcher.Tests.csproj.nuget.g.props
+/SqlServer.EtwWatcher.Tests/obj/SqlServer.EtwWatcher.Tests.csproj.nuget.dgspec.json
+/SqlServer.EtwWatcher.Tests/obj/SqlServer.EtwWatcher.Tests.csproj.nuget.cache
+/SqlServer.EtwWatcher.Tests/obj/project.assets.json
+/SqlServer.EtwWatcher.Tests/obj/Debug/netcoreapp3.0/SqlServer.EtwWatcher.Tests.pdb
+/SqlServer.EtwWatcher.Tests/obj/Debug/netcoreapp3.0/SqlServer.EtwWatcher.Tests.dll
+/SqlServer.EtwWatcher.Tests/obj/Debug/netcoreapp3.0/SqlServer.EtwWatcher.Tests.csprojAssemblyReference.cache
+/SqlServer.EtwWatcher.Tests/obj/Debug/netcoreapp3.0/SqlServer.EtwWatcher.Tests.csproj.FileListAbsolute.txt
+/SqlServer.EtwWatcher.Tests/obj/Debug/netcoreapp3.0/SqlServer.EtwWatcher.Tests.csproj.CopyComplete
+/SqlServer.EtwWatcher.Tests/obj/Debug/netcoreapp3.0/SqlServer.EtwWatcher.Tests.assets.cache
+/SqlServer.EtwWatcher.Tests/obj/Debug/netcoreapp3.0/SqlServer.EtwWatcher.Tests.AssemblyInfoInputs.cache
+/SqlServer.EtwWatcher.Tests/obj/Debug/netcoreapp3.0/SqlServer.EtwWatcher.Tests.AssemblyInfo.cs
+/SqlServer.EtwWatcher.Tests/obj/Debug/netcoreapp3.0
