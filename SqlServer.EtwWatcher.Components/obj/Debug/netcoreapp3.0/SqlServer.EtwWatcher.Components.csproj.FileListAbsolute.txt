@@ -1,8 +1,0 @@
-C:\Dev\SqlServer.EtwWatcher\SqlServer.EtwWatcher.Components\bin\Debug\netcoreapp3.0\SqlServer.EtwWatcher.Components.deps.json
-C:\Dev\SqlServer.EtwWatcher\SqlServer.EtwWatcher.Components\bin\Debug\netcoreapp3.0\SqlServer.EtwWatcher.Components.dll
-C:\Dev\SqlServer.EtwWatcher\SqlServer.EtwWatcher.Components\bin\Debug\netcoreapp3.0\SqlServer.EtwWatcher.Components.pdb
-C:\Dev\SqlServer.EtwWatcher\SqlServer.EtwWatcher.Components\obj\Debug\netcoreapp3.0\SqlServer.EtwWatcher.Components.csprojAssemblyReference.cache
-C:\Dev\SqlServer.EtwWatcher\SqlServer.EtwWatcher.Components\obj\Debug\netcoreapp3.0\SqlServer.EtwWatcher.Components.AssemblyInfoInputs.cache
-C:\Dev\SqlServer.EtwWatcher\SqlServer.EtwWatcher.Components\obj\Debug\netcoreapp3.0\SqlServer.EtwWatcher.Components.AssemblyInfo.cs
-C:\Dev\SqlServer.EtwWatcher\SqlServer.EtwWatcher.Components\obj\Debug\netcoreapp3.0\SqlServer.EtwWatcher.Components.dll
-C:\Dev\SqlServer.EtwWatcher\SqlServer.EtwWatcher.Components\obj\Debug\netcoreapp3.0\SqlServer.EtwWatcher.Components.pdb
