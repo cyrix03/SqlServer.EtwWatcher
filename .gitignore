@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/SqlServer.EtwWatcher
+/SqlServer.EtwWatcher/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1
+/SqlServer.EtwWatcher/bin/Debug/netcoreapp3.0/runtimes
+/SqlServer.EtwWatcher/bin/Debug/netcoreapp3.0
+/SqlServer.EtwWatcher/obj/Debug/netcoreapp3.0
+/SqlServer.EtwWatcher/obj
+/SqlServer.EtwWatcher.Components/obj
+/SqlServer.EtwWatcher.Components/bin/Debug/netcoreapp3.0
+/SqlServer.EtwWatcher.Tests/bin/Debug/netcoreapp3.0

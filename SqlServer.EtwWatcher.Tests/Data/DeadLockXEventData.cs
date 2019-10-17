@@ -15,7 +15,7 @@ namespace SqlServer.EtwWatcher.Tests.Data
     {
         public string Name { get; set; } = "xml_deadlock_report";
 
-        public Guid UUID { get; set; } = Guid.Parse("8a7e5df0-bfe2-11dc-878f-68b855d89593");
+        public Guid UUID { get; set; } = Guid.Parse("5a57b610-6006-4ed5-848e-2a8324262c28");
 
         public DateTimeOffset Timestamp { get; set; } = DateTimeOffset.Parse("2019-07-29T13:56:28.5065663-05:00");
 
