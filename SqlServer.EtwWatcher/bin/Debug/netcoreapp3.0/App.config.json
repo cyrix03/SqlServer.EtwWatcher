@@ -1,0 +1,10 @@
+{
+    "EtwWatcherAzureConfiguration": {
+        "LogAnalyticsSharedKey": "3MnRWkjeSuuvYID3DsCMMUYmunRg2jgxXtVK0VdKe5p3QfgnWA3UcdEQm97pDBkN2Wa4RVna7HG37Ht12YYVSw==",
+        "LogAnalyticsCustomerId": "2756f1b6-20c5-46db-ab73-de91bd186c28"
+    },
+    "EtwWatcherInstanceConfiguration": {
+        "ConnectionString": "Data Source=(local)\\FSX_SQL;Integrated Security=true",
+        "SessionName": "XE_DEFAULT_ETW_SESSION"
+    }
+}
