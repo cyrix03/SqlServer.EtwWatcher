@@ -4,7 +4,7 @@
         "LogAnalyticsCustomerId": "{AZURE RESOURCE GUID GOES HERE}"
     },
     "EtwWatcherInstanceConfiguration": {
-        "ConnectionString": "Data Source=(local)\\FSX_SQL;Integrated Security=true",
+        "ConnectionString": "Data Source=(local);Integrated Security=true",
         "SessionName": "XE_DEFAULT_ETW_SESSION"
     }
 }
