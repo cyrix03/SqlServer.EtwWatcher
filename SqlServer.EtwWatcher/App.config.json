@@ -1,0 +1,10 @@
+{
+    "EtwWatcherAzureConfiguration": {
+        "LogAnalyticsSharedKey": "{SHARED KEY GOES HERE}",
+        "LogAnalyticsCustomerId": "{AZURE RESOURCE GUID GOES HERE}"
+    },
+    "EtwWatcherInstanceConfiguration": {
+        "ConnectionString": "Data Source=(local)\\FSX_SQL;Integrated Security=true",
+        "SessionName": "XE_DEFAULT_ETW_SESSION"
+    }
+}
